@@ -7,7 +7,7 @@
 scode := strings.ToTitle("AlphaBet Value")
 ```
 
-# Test
+### Test
 
 ```
   go mod init
@@ -17,7 +17,7 @@ scode := strings.ToTitle("AlphaBet Value")
   go run main.go
 ```
 
-# Result
+### Result
 
 ```
 //IF Enter AA
